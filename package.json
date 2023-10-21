@@ -1,0 +1,19 @@
+{
+  "name": "salupito_s-portfolio",
+  "version": "1.0.0",
+  "description": "do hard",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/~/salupito_s-portfolio.git"
+  },
+  "author": "Zedrick Salupito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/~/salupito_s-portfolio/issues"
+  },
+  "homepage": "https://github.com/~/salupito_s-portfolio#readme"
+}
